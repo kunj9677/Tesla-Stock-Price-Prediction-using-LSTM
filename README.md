@@ -11,3 +11,7 @@ A potential use of deep learning and time series analysis is the incorporation o
 
 The projected production, which usually indicates future prices of Tesla stock, can be a useful resource for traders, investors, and financial analysts. It aids in decision-making and offers insights into prospective industry trends. Nevertheless, as there are several elements that affect the stock market that are outside the purview of any one predictive model, it should be utilised in conjunction with additional study and analysis.
 
+Please look at the Pdf in file section for more details of this project it contains:
+  -Final Report Synopsis
+  -Python Code pdf
+  -Python code file 
